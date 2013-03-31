@@ -1,0 +1,1 @@
+Brincando com Node.JS, este projeto tem apenas o intuito de servir como laboratório de minhas brincadeiras
